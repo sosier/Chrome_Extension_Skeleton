@@ -1,0 +1,11 @@
+/* Just normal CSS stuff */
+body {
+  width: 250px;
+  background: white;
+  font-family: Arial,sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
+p {
+  font-size: 14px;
+}

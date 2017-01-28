@@ -1,0 +1,11 @@
+/*
+Normal CSS stuff, but to ensure formatting consistency across different sites
+specify pre-fix your sytles with the id of your outermost wrapper element
+*/
+#my_extension div {
+  width: 100px;
+  background: red;
+}
+#my_extension .bigger_font {
+  font-size: 18px;
+}
